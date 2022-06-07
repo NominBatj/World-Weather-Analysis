@@ -1,1 +1,2 @@
-# World-Weather-Analysis
+# World Weather Analysis
+In the current project we are analyzing and visualizing data for travel company "PlanMyTrip". First step is using API skills to retrieve the weather data and creating a new DataFrame containing the updated weather data. Second, we are using input statements to retrieve customer weather preferences, then identifying potential travel destinations and nearby hotels. And last, we are creating travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. 
